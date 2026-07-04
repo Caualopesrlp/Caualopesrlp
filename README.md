@@ -45,7 +45,16 @@ Atualmente, meu foco principal está no desenvolvimento back-end com Laravel, on
 
 ## 📂 Projetos
 
+### 🛒 Store API (Laravel)
+
+API REST desenvolvida com Laravel, utilizando arquitetura em camadas (Controller, Service e Repository), autenticação com Laravel Sanctum, CRUD completo de produtos, validação com Form Requests e controle de ownership, garantindo que cada usuário acesse apenas seus próprios dados.
+
+🔗 Repositório: https://github.com/Caualopesrlp/store-api
+
+---
+
 ### 📝 To Do List (Laravel)
+
 Sistema CRUD completo desenvolvido com Laravel, aplicando boas práticas de organização e estruturação de código.
 
 🔗 Repositório: https://github.com/Caualopesrlp/to-do-list
@@ -53,7 +62,8 @@ Sistema CRUD completo desenvolvido com Laravel, aplicando boas práticas de orga
 ---
 
 ### 📦 CRUD de Produtos
-Projeto de estudo com foco em fundamentos de CRUD utilizando Laravel.
+
+Projeto de estudo com foco nos fundamentos de operações CRUD utilizando Laravel.
 
 🔗 Repositório: https://github.com/Caualopesrlp/crud-produtos
 
