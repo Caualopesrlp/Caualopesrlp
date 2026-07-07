@@ -45,7 +45,7 @@ Atualmente, meu foco principal está no desenvolvimento back-end com Laravel, on
 
 ## 📂 Projetos
 
-### 🛒 Store API (Laravel)
+### 🛒 Store API 
 
 API REST desenvolvida com Laravel, utilizando arquitetura em camadas (Controller, Service e Repository), autenticação com Laravel Sanctum, CRUD completo de produtos, validação com Form Requests e controle de ownership, garantindo que cada usuário acesse apenas seus próprios dados.
 
@@ -53,7 +53,7 @@ API REST desenvolvida com Laravel, utilizando arquitetura em camadas (Controller
 
 ---
 
-### 📝 To Do List (Laravel)
+### 📝 To Do List 
 
 Sistema CRUD completo desenvolvido com Laravel, aplicando boas práticas de organização e estruturação de código.
 
@@ -61,7 +61,7 @@ Sistema CRUD completo desenvolvido com Laravel, aplicando boas práticas de orga
 
 ---
 
-### 📦 CRUD de Produtos
+### 📦 CRUD de Produtos 
 
 Projeto de estudo com foco nos fundamentos de operações CRUD utilizando Laravel.
 
