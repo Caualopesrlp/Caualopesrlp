@@ -20,11 +20,11 @@ Além da experiência profissional, desenvolvo projetos pessoais para consolidar
 
 ## 🧠 Aprendizado contínuo
 
-💡 Desenvolvimento back-end com Laravel
-💡 Desenvolvimento e integração de APIs REST
-💡 Arquitetura e organização de aplicações
-💡 Boas práticas e padrões de projeto
-💡 Evolução através de projetos práticos
+* 💡 Desenvolvimento back-end com Laravel
+* 💡 Desenvolvimento e integração de APIs REST
+* 💡 Arquitetura e organização de aplicações
+* 💡 Boas práticas e padrões de projeto
+* 💡 Evolução através de projetos práticos
 
 ---
 
@@ -81,7 +81,7 @@ Projeto de estudo desenvolvido com Laravel para consolidar os fundamentos de ope
 
 ## 📫 Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/caualopesrlp/
+💼 LinkedIn: https://www.linkedin.com/in/Caualopesrlp/
 🐙 GitHub: https://github.com/Caualopesrlp
 
 ---
