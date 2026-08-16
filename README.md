@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Cauã Lopes
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas na UCSAL
-💻 Estagiário em Desenvolvimento de Software com foco em Laravel (Back-End)
+🎯 Estudante de Análise e Desenvolvimento de Sistemas na UCSAL  
+💻 Estagiário em Desenvolvimento de Software com foco em Laravel (Back-End)  
 🚀 Focado em evolução contínua como desenvolvedor back-end
 
 ---
