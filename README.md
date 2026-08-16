@@ -81,7 +81,7 @@ Projeto de estudo desenvolvido com Laravel para consolidar os fundamentos de ope
 
 ## 📫 Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/Caualopesrlp/
+💼 LinkedIn: https://www.linkedin.com/in/Caualopesrlp/  
 🐙 GitHub: https://github.com/Caualopesrlp
 
 ---
