@@ -1,51 +1,61 @@
 # 👋 Olá, eu sou Cauã Lopes
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas na UCSAL  
-💻 Estagiário em Desenvolvimento de Software com foco em Laravel (Back-End)  
+🎯 Estudante de Análise e Desenvolvimento de Sistemas na UCSAL
+💻 Estagiário em Desenvolvimento de Software com foco em Laravel (Back-End)
 🚀 Focado em evolução contínua como desenvolvedor back-end
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UCSAL e atualmente atuo como estagiário na área de desenvolvimento de software, trabalhando com Laravel no desenvolvimento de aplicações web.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UCSAL e atualmente atuo como estagiário na área de desenvolvimento de software, trabalhando principalmente com PHP e Laravel no desenvolvimento e manutenção de aplicações web.
 
-Tenho contato com tecnologias como Java, HTML, CSS e JavaScript durante a formação acadêmica, o que contribuiu para minha base em lógica de programação e desenvolvimento web.
+No dia a dia do estágio, participo do desenvolvimento de novas funcionalidades e da correção de bugs, atuando tanto no back-end quanto no front-end. Também tenho contato com desenvolvimento e consumo de APIs REST, utilizando ferramentas como Postman e Bruno para testes e validações e Swagger para documentação.
 
-Atualmente, meu foco principal está no desenvolvimento back-end com Laravel, onde atuo no dia a dia do estágio e em projetos pessoais, aplicando conceitos como CRUD, validação de dados, organização de código e boas práticas.
+Atualmente, meu foco principal está no desenvolvimento back-end com Laravel, buscando aprofundar meus conhecimentos em APIs, arquitetura de software, organização de código e boas práticas de desenvolvimento.
+
+Além da experiência profissional, desenvolvo projetos pessoais para consolidar meus conhecimentos e evoluir gradualmente para aplicações mais completas e estruturadas.
 
 ---
 
 ## 🧠 Aprendizado contínuo
 
-💡 Desenvolvimento back-end com Laravel  
-💡 Estruturação de projetos web  
-💡 Boas práticas de programação  
-💡 Evolução constante através de projetos práticos  
+💡 Desenvolvimento back-end com Laravel
+💡 Desenvolvimento e integração de APIs REST
+💡 Arquitetura e organização de aplicações
+💡 Boas práticas e padrões de projeto
+💡 Evolução através de projetos práticos
 
 ---
 
 ## 🛠️ Tecnologias
 
-💻 Back-end  
-- PHP  
-- Laravel  
+💻 **Back-end**
 
-🌐 Front-end básico  
-- HTML  
-- CSS  
-- JavaScript  
+* PHP
+* Laravel
+* REST APIs
 
-⚙️ Ferramentas  
-- Git  
-- GitLab  
-- GitHub  
+🌐 **Front-end**
+
+* HTML
+* CSS
+* JavaScript
+
+⚙️ **Ferramentas**
+
+* Git
+* GitLab
+* GitHub
+* Postman
+* Bruno
+* Swagger
 
 ---
 
 ## 📂 Projetos
 
-### 🛒 Store API 
+### 🛒 Store API
 
 API REST desenvolvida com Laravel, utilizando arquitetura em camadas (Controller, Service e Repository), autenticação com Laravel Sanctum, CRUD completo de produtos, validação com Form Requests e controle de ownership, garantindo que cada usuário acesse apenas seus próprios dados.
 
@@ -53,17 +63,17 @@ API REST desenvolvida com Laravel, utilizando arquitetura em camadas (Controller
 
 ---
 
-### 📝 To Do List 
+### 📝 To Do List
 
-Sistema CRUD completo desenvolvido com Laravel, aplicando boas práticas de organização e estruturação de código.
+Aplicação desenvolvida com Laravel para gerenciamento de tarefas, com foco na prática dos fundamentos do framework, organização do código e operações CRUD.
 
 🔗 Repositório: https://github.com/Caualopesrlp/to-do-list
 
 ---
 
-### 📦 CRUD de Produtos 
+### 📦 CRUD de Produtos
 
-Projeto de estudo com foco nos fundamentos de operações CRUD utilizando Laravel.
+Projeto de estudo desenvolvido com Laravel para consolidar os fundamentos de operações CRUD, validação de dados, migrations, seeders e organização de uma aplicação web.
 
 🔗 Repositório: https://github.com/Caualopesrlp/crud-produtos
 
@@ -71,9 +81,9 @@ Projeto de estudo com foco nos fundamentos de operações CRUD utilizando Larave
 
 ## 📫 Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/caualopesrlp/  
+💼 LinkedIn: https://www.linkedin.com/in/caualopesrlp/
 🐙 GitHub: https://github.com/Caualopesrlp
 
 ---
 
-🚀 Em constante evolução como desenvolvedor, buscando aprender na prática e construir aplicações cada vez mais completas.
+🚀 Em constante evolução como desenvolvedor, buscando aprender na prática e construir aplicações cada vez mais completas e estruturadas.
