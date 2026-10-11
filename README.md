@@ -55,6 +55,14 @@ Além da experiência profissional, desenvolvo projetos pessoais para consolidar
 
 ## 📂 Projetos
 
+### 🦁 Dashboard EC Vitória (Série A 2026)
+
+Painel gerencial de inteligência esportiva desenvolvido em Laravel. A aplicação consome a Football-Data API v4 via comandos customizados do Artisan, oferecendo KPIs executivos, análises de desempenho por mando de campo, gráficos interativos com Chart.js e filtros dinâmicos de partidas.
+
+🔗 Repositório: https://github.com/Caualopesrlp/dashboardecv
+
+---
+
 ### 🛒 Store API
 
 API REST desenvolvida com Laravel, utilizando arquitetura em camadas (Controller, Service e Repository), autenticação com Laravel Sanctum, CRUD completo de produtos, validação com Form Requests e controle de ownership, garantindo que cada usuário acesse apenas seus próprios dados.
