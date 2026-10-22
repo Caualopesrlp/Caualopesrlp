@@ -63,19 +63,11 @@ Painel gerencial de inteligência esportiva desenvolvido em Laravel. A aplicaç�
 
 ---
 
-### 🛒 Store API
+### 📊 Polls Realtime API
 
-API REST desenvolvida com Laravel, utilizando arquitetura em camadas (Controller, Service e Repository), autenticação com Laravel Sanctum, CRUD completo de produtos, validação com Form Requests e controle de ownership, garantindo que cada usuário acesse apenas seus próprios dados.
+API RESTful para criação e votação em enquetes em tempo real via WebSockets (Laravel Reverb). Desenvolvida em Laravel 11 e PHP 8.3 sob arquitetura em camadas (Clean Architecture), conta com tipagem forte com Enums, cálculo automático de métricas, agendamento de tarefas para transição de status, ambiente Docker, testes automatizados e documentação OpenAPI via Scramble.
 
-🔗 Repositório: https://github.com/Caualopesrlp/store-api
-
----
-
-### 📝 To Do List
-
-Aplicação desenvolvida com Laravel para gerenciamento de tarefas, com foco na prática dos fundamentos do framework, organização do código e operações CRUD.
-
-🔗 Repositório: https://github.com/Caualopesrlp/to-do-list
+🔗 Repositório: https://github.com/Caualopesrlp/polls-realtime-api
 
 ---
 
@@ -84,6 +76,14 @@ Aplicação desenvolvida com Laravel para gerenciamento de tarefas, com foco na 
 Projeto de estudo desenvolvido com Laravel para consolidar os fundamentos de operações CRUD, validação de dados, migrations, seeders e organização de uma aplicação web.
 
 🔗 Repositório: https://github.com/Caualopesrlp/crud-produtos
+
+---
+
+### 🛒 Store API
+
+API REST desenvolvida com Laravel, utilizando arquitetura em camadas (Controller, Service e Repository), autenticação com Laravel Sanctum, CRUD completo de produtos, validação com Form Requests e controle de ownership, garantindo que cada usuário acesse apenas seus próprios dados.
+
+🔗 Repositório: https://github.com/Caualopesrlp/store-api
 
 ---
 
